@@ -1,0 +1,5 @@
+audio_file,question,question_type,answer
+sample.wav,Can you identify the sounds?,perceptual,"clapping, knocking, speech"
+sample.wav,How many sound events are there?,counting,8
+sample.wav,Which sound occurs before speech?,temporal,knocking
+sample.wav,Why does the audio contain different sounds?,reasoning,Multiple sound events are present

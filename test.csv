@@ -1,0 +1,5 @@
+audio_file,question,question_type,answer
+sample.wav,What can you hear in the audio?,perceptual,"clapping, knocking, speech"
+sample.wav,How many times does clapping occur?,counting,4
+sample.wav,Which event follows the initial clapping?,temporal,knocking
+sample.wav,Why is this an indoor environment?,reasoning,Speech and knocking are present

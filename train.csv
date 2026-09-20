@@ -1,0 +1,13 @@
+audio_file,question,question_type,answer
+sample.wav,What sound is present?,perceptual,"knock, speech"
+sample.wav,What sounds are present?,perceptual,"clapping, knocking, speech"
+sample.wav,What type of environment is this?,perceptual,indoor
+sample.wav,How many claps are heard?,counting,4
+sample.wav,How many knocks are heard?,counting,3
+sample.wav,How many speech events are there?,counting,1
+sample.wav,What happens after the clapping?,temporal,knocking
+sample.wav,What happens before speech?,temporal,knocking
+sample.wav,What happens after the knocking?,temporal,speech
+sample.wav,Why does the environment appear indoor?,reasoning,speech and knocking are present
+sample.wav,Why is speech present in the audio?,reasoning,A speech event is present
+sample.wav,Why can knocking be heard?,reasoning,A knocking event is present
